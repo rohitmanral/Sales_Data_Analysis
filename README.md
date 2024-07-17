@@ -1,2 +1,4 @@
 # Sales_Data_Analysis
-Sales data analysis using plethora of python libraries.
+Analysing monthly sales data using plethora of python libraries.
+
+
